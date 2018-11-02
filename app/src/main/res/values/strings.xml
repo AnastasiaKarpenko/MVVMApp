@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMApp</string>
+    <string name="register_btn">Register</string>
+    <string name="name_hint">Name</string>
+</resources>
